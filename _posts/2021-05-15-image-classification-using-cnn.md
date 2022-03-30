@@ -16,7 +16,7 @@ _CIFAR-10 Dataset_
 **Workflows used**: Git and Agile.
 **Technologies used**: Python, Jupyter, TensorFlow.
 
-***Note**: This project was done as part of assessment for module CSC2034.*
+**Note**: *This project was done as part of assessment for module CSC2034.*
 
 ## Task
 Design and train a Convolutional Neural Network that performs as well as possible on the CIFAR-10 dataset.

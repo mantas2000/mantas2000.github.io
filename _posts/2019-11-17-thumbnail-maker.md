@@ -14,7 +14,7 @@ _GUI of the application_
 **Workflows used**: Git and Agile.
 **Technologies used**: Python.
 
-***Note**: This project was done as part of assessment for module CSC1034.*
+**Note**: *This project was done as part of assessment for module CSC1034.*
 
 ## Objectives
 - Read in image files and store them in an appropriate collection ready for modification.
