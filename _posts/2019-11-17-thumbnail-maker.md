@@ -30,7 +30,7 @@ _GUI of the application_
 - Expanded my knowledge of traversing collections to explore the different properties of an image.
 - Used my understanding of a library and produced something creative.
 
-## Investigated Libraries
+## Libraries Investigated
 - Pillow
 - Tkinter
 - Threading
