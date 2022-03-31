@@ -17,6 +17,8 @@ _App's home page_
 **Workflows used**: Git and Waterfall.
 **Technologies used**: Xamarin, C#, XAML.
 
+**Note**: *This project was done as part of assessment for module CSC2033.*
+
 ## Customer Requirements
 Build an App that ENGIE’s subcontractors can use that will:
 
@@ -38,6 +40,7 @@ The Graphical User Interface (GUI) of the application was made using XAML user i
 - Security/Encryption
 - PDF support implementation
 - GUI Creation & Design (XAML)
+- Dark Mode support
 - Testing
 
 ## Learning Outcomes
