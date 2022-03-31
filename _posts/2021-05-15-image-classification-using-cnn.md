@@ -30,7 +30,7 @@ _Accuracy and loss of the final model_
 ![Window shadow](/assets/img/posts/cnn-final-model-confusion-matrix.jpg){: .shadow style="max-width: 90%" }
 _Confusion matrix of the final model_
 
-## Summary of CNN development
+## Summary of CNN Development
 In this study, I performed systematic experiments to design and train a convolutional neural network.
 Throughout the development of the model, I improved CNN performance and reduced overfitting with
 four different strategies: by selecting pre-defined CNN architecture, optimisation algorithm,
