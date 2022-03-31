@@ -50,3 +50,6 @@ The Graphical User Interface (GUI) of the application was made using XAML user i
 - Fulfilled appropriate roles within a team and applied particular skills to the job in hand.
 - Gained an experience of working with appropriate industrial-strength tool-chains.
 - Developed employability skills.
+
+## Learn More
+For more knowledge about the project, visit my project's [repository](https://github.com/mantas2000/Engie-Asset-Maintenance-App){: target="_blank"}.
