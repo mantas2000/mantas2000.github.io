@@ -2,7 +2,7 @@
 title: Developing Asset Maintenance Application
 date: 2021-01-31 16:41:58 +/-0000
 categories: [Blogging, Demonstration]
-tags: [xamarin, c#, android, ios]
+tags: [xamarin, c#, android, ios, mysql]
 ---
 
 ## Overview
@@ -15,7 +15,7 @@ that supports both Android & iOS devices.
 _App's home page_
 
 **Workflows used**: Git and Waterfall.
-**Technologies used**: Xamarin, C#, XAML.
+**Technologies used**: Xamarin, C#, XAML, AWS, MySQL.
 
 **Note**: *This project was done as part of assessment for module CSC2033.*
 
