@@ -29,7 +29,7 @@ _Main game character_
 - Advanced gameplay progression techniques (Markov Decision Process, Min/Max tree search algorithm)
 - Special effects and audio
 
-## Play the game
+## Play the Game
 <iframe frameborder="0" src="https://itch.io/embed-upload/5515984?color=333333" allowfullscreen="" width="740" height="480"><a href="https://mantas2000.itch.io/dragon-adventures">Play Dragon Adventures on itch.io</a></iframe>
 
 ## Learning Outcomes
