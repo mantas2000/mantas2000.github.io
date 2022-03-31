@@ -19,7 +19,7 @@ _Cinematic scene images_
 
 **Note**: *This project was done as part of assessment for module CSC3231.*
 
-## Things done
+## Things Done
 - A scene hierarchy where some elements move/rotate in relation to parent objects.
 - Permanent change to the planet surface (meteor crashing into terrain).
 - A navigable camera, moving around the 3D environment.
@@ -29,7 +29,7 @@ _Cinematic scene images_
 - Planet surface extends as far as the eye can see.
 - Wind effect.
 
-## YouTube video of project running
+## YouTube Video of Project Running
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KdF_kYqG_yE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Learning Outcomes
